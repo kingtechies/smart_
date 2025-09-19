@@ -531,7 +531,7 @@ Every week, you’ll complete projects that reinforce skills and build your port
 
 ## 📥 CONTACT
 
-- Email: gigo@aimastery.com
+- Email: navascoinking@gmail.com
 - Email: emmanuel@aimastery.com
 - Discord: [Invite Link](#)
 
