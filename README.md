@@ -477,7 +477,7 @@ Every week, you’ll complete projects that reinforce skills and build your port
 
 ---
 
-## 🖼️ SAMPLE TIMETABLE (8 MONTHS)
+## 🖼️ TIMETABLE (8 MONTHS)
 
 | Month | Mon | Wed | Fri | Weekend Project |
 |-------|-----|-----|-----|-----------------|
