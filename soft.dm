@@ -1,7 +1,7 @@
 # GIGO \ Complete Software Engineering Mastery Bootcamp
 
 Welcome, future Software Engineer!  
-This README is your **comprehensive guide** to mastering Software Engineering with GIGO (lead instructor) and Emmanuel (assistant).  
+This README is your **comprehensive guide** to mastering Software Engineering with GIGO (lead instructor) .  
 **This course is designed for absolute beginners** and will take you all the way to advanced, industry-ready, PRO level.
 
 ---
